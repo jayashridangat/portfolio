@@ -1,9 +1,12 @@
 export default function Footer() {
   return (
-    <div>
-      Linkedin Hackerrank Github Leetcode Mail
-      
-      Tools used 
+    <div >
+      <a>Linkedin</a>
+      <a>Hackerrank</a>
+      <a>Github</a>
+      <a>Leetcode </a>
+      <a>Mail</a>
+      <p>Tools used </p>
     </div>
   )
 }

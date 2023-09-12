@@ -6,12 +6,21 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontFamily: {
+      'Montserrat': ['Montserrat'],
+    },
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      colors: {
+        gold: {
+          DEFAULT: '#ca8a04',
+        },
+        royal:{
+          DEFAULT:'#111827',
+        },
+        back: {
+          DEFAULT:'#020617',
+        },
+      }
     },
   },
   plugins: [],
