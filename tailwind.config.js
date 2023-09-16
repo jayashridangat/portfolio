@@ -8,6 +8,8 @@ module.exports = {
   theme: {
     fontFamily: {
       'Montserrat': ['Montserrat'],
+      'Aparajita':['Aparajita'],
+      'century_gothic':['century gothic'],
     },
     extend: {
       colors: {

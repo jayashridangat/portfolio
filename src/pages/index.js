@@ -3,8 +3,8 @@ export default function index() {
     <div>
      Hi I'm Jayashri!
 <p>This is all about me-</p>
-<p>Pursuing Third year B-tech in Instrumentation and Control in
-COEP Technological University-2024</p>
+<p>Pursuing Final year B-tech Instrumentation and Control in</p>
+  <p>COEP Technological University-2024</p>
     </div>
   )
 }
