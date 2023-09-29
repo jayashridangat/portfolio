@@ -22,6 +22,9 @@ module.exports = {
         back: {
           DEFAULT:'#020617',
         },
+        rose: {
+          DEFAULT:"#EAB2A2",
+        },
       }
     },
   },
