@@ -2,7 +2,7 @@ export default function projects() {
   return (
     <div>
       <head>
-        Projects
+        <title>Projects</title>
       </head>
       <p  className="mx-2 my-2 text-center bg-opacity-50 rounded bg-rose text-back">Internship</p>
       Position:-Web-developer
