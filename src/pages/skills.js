@@ -1,6 +1,10 @@
 export default function skills() {
   return (
     <div>
+      <head>
+        <title>Skills</title>
+      </head>
+
       <p  className="mx-2 text-center bg-opacity-50 rounded bg-rose text-back">Languages</p>
       <div className="grid grid-cols-2 gap-6 p-4 justify-items-center">
 
