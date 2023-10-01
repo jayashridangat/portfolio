@@ -3,17 +3,14 @@ export default function index() {
   return (
     <div className="mx-2">
      <p >Hi!</p>
-     <p >I'm Jayashri!</p><br></br>
-
-<p>This is all about me-</p>
+     <p >I'm Jayashri!</p>
+<p className="my-1">This is all about me-</p>
 <br></br>
-<p>Pursuing Engineering in Instrumentation and Control from COEP Technological University</p>
+An aspiring to be a software development engineer
+<p>Pursuing Engineering in Instrumentation and Control</p>
+<p>Currently in final year final year - COEP Technological University</p>
 <br></br>
-Still in final year will be graduating within next few months
-<p></p>
-<p>Studying Instrumentation but learning Software development</p>
-<p>Why you ask?...</p>
-<p>...... cuz that's my interest!</p>
+<p>That's all....</p>
 <br></br>
 Thank You!
     </div>
