@@ -1,7 +1,11 @@
-
+import Head from "next/head"
 export default function index() {
   return (
-    <div className="mx-2">
+    <div>
+      <head>
+        <title>Jayashri09</title>
+      </head>
+      <div className="mx-2">
      <p >Hi!</p>
      <p >I&aposm Jayashri!</p>
 <p className="my-1">This is all about me-</p>
@@ -13,6 +17,7 @@ An aspiring to be a software development engineer
 <p>That&aposs all....</p>
 <br></br>
 Thank You!
+    </div>
     </div>
   )
 }
