@@ -14,7 +14,7 @@ module.exports = {
     extend: {
       colors: {
         gold: {
-          DEFAULT: '##BF8D39',
+          DEFAULT: '#BF8D39',
         },
         royal:{
           DEFAULT:'#111827',
