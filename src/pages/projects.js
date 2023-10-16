@@ -1,9 +1,10 @@
+import Head from 'next/head'
 export default function projects() {
   return (
     <div>
-      <head>
+      <Head>
         <title>Projects</title>
-      </head>
+      </Head>
       <p  className="mx-2 my-2 text-center bg-opacity-50 rounded bg-rose text-back">Internship</p>
       Position:-Web-developer
       <br></br>

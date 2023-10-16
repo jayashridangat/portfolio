@@ -2,9 +2,9 @@ import Head from "next/head"
 export default function index() {
   return (
     <div>
-      <head>
+      <Head>
         <title>Jayashri09</title>
-      </head>
+      </Head>
       <div className="mx-2">
      <p >Hi!</p>
      <p >I&apos;m Jayashri!</p>
