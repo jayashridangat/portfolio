@@ -15,7 +15,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/C++.png" className="w-32 h-34"/>
+        <img src="../Skills/C++.png" className="lg:w-32 lg:h-34"/>
         </div>
     </a>
   </div>
@@ -27,7 +27,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/Python.png" className="w-32 h-32"/>
+        <img src="../Skills/Python.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -39,7 +39,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../tools/js.png" className="w-32 h-32"/>
+        <img src="../tools/js.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -51,7 +51,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/Java.png" className="w-32 h-32"/>
+        <img src="../Skills/Java.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -70,7 +70,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../tools/html.png" className="w-32 h-32"/>
+        <img src="../tools/html.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -81,7 +81,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/css.png" className="w-32 h-32"/>
+        <img src="../Skills/css.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -94,7 +94,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../tools/react.png" className="w-32 h-32"/>
+        <img src="../tools/react.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -108,7 +108,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../tools/nextjs.png" className="w-32 h-32 rounded-full"/>
+        <img src="../tools/nextjs.png" className="rounded-full lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -120,7 +120,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/django.png" className="w-32 h-32"/>
+        <img src="../Skills/django.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -132,7 +132,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/mysql.png" className="w-32 h-32"/>
+        <img src="../Skills/mysql.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -144,7 +144,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/API.png" className="w-32 h-32"/>
+        <img src="../Skills/API.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
@@ -157,7 +157,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/regex2.png" className="w-32 h-32 "/>
+        <img src="../Skills/regex2.png" className="lg:w-32 lg:h-32 "/>
         </div>
     </a>
   </div>
@@ -169,7 +169,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/tableau.png" className="h-32 w-34"/>
+        <img src="../Skills/tableau.png" className="lg:h-32 lg:w-34"/>
         </div>
     </a>
   </div>
@@ -181,7 +181,7 @@ export default function skills() {
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/uiux.png" className="w-32 h-32"/>
+        <img src="../Skills/uiux.png" className="lg:w-32 lg:h-32"/>
         </div>
     </a>
   </div>
