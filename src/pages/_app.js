@@ -6,7 +6,7 @@ function _app({ Component, pageProps }) {
   return (
     <div className="font-century_gothic text-gold">
       <Header/>
-      <div className="grid grid-cols-12 gap-4 px-5 my-8 lg:gap-x-6 text-s lg:px-8 sm:px-20 md:px-32 md:text-xl lg:text-2xl">
+      <div className="grid grid-cols-12 gap-4 px-5 my-6 lg:gap-x-6 text-s lg:px-8 sm:px-20 md:px-32 md:text-xl lg:text-2xl">
         <div className="col-span-3 p-1 text-s lg:col-span-1 md:text-l lg:text-xl ">
           <Navbar/>
         </div>
@@ -14,7 +14,7 @@ function _app({ Component, pageProps }) {
           <Component {...pageProps} />
         </div>
       </div> 
-      <div className="text-white "><Footer/></div>    
+      <div><Footer/></div>    
     </div>
   )
 }

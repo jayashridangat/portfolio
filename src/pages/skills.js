@@ -1,21 +1,22 @@
+import Head from 'next/head'
 export default function skills() {
   return (
     <div>
-      <head>
+      <Head>
         <title>Skills</title>
-      </head>
+      </Head>
 
       <p  className="mx-2 text-center bg-opacity-50 rounded bg-rose text-back">Languages</p>
       <div className="grid grid-cols-2 gap-6 p-4 justify-items-center">
 
- <div class="relative ">
+  <div class="relative ">
     <a class="absolute inset-0 z-10 bg-royal text-center flex flex-col items-center justify-center opacity-0 hover:opacity-100 bg-opacity-90 duration-300 hover:cursor-default text-gold">
       <h1  class="tracking-wider" >C++</h1>
       <h1  class="tracking-wider" >Intermediate</h1>
       </a>
     <a >
         <div class="content-center">
-        <img src="../Skills/C++.png" className="lg:w-32 lg:h-34"/>
+        <img src="../Skills/c++.png" className="lg:w-32 lg:h-34"/>
         </div>
     </a>
   </div>
