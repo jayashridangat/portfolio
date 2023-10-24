@@ -6,17 +6,19 @@ export default function index() {
         <title>Jayashri09</title>
       </Head>
       <div className="mx-2">
-     <p >Hi!</p>
-     <p >I&apos;m Jayashri!</p>
-<p className="my-1">This is all about me-</p>
-<br></br>
-An aspiring to be a software development engineer
-<p>Pursuing Engineering in Instrumentation and Control</p>
-<p>Currently in final year final year - COEP Technological University</p>
-<br></br>
-<p>That&apos;s all....</p>
-<br></br>
-Thank You!
+      <div class="flex justify-center items-center">
+    <img src="../Social/photo2.jpg" className="object-cover lg:w-56 lg:h-56 rounded-full" alt=""/>
+    </div>
+
+   <div className="text-center">
+    <b>Jayashri Dangat</b>
+    <p>Web development</p>
+    </div>
+    <br></br>
+    My first portfolio website
+    <p>Education:COEP Technological University-2024</p>
+    Stream:- Instrumentation and Control
+    <p>This website is to showcase my Front-end skills</p>
     </div>
     </div>
   )
